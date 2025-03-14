@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é Matheus Borba!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=matheusborbaa&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Sou desenvolvedor FullStack Junior - Iniciante e necessito da sua confiança em só um projeto!</p>
